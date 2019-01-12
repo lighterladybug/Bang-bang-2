@@ -1,5 +1,6 @@
 Dziś w klubie bedzie bang!
 
+0
 1
 2
 3
@@ -9,3 +10,4 @@ Dziś w klubie bedzie bang!
 7
 8
 9
+10
